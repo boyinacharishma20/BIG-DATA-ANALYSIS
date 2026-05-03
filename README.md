@@ -97,3 +97,11 @@ This project demonstrates practical applications in several domains, including:
 ## Conclusion
 
 This project effectively illustrates how Dask can be leveraged for scalable big data analysis in a real-world retail scenario. By combining efficient data processing techniques with structured analytical methods, the project delivers actionable insights that can support business growth and optimization. The approach demonstrated in this work can be extended to larger datasets and integrated into production-level data pipelines for advanced analytics and machine learning applications.
+
+## OUTPUT
+
+<img width="1346" height="708" alt="Image" src="https://github.com/user-attachments/assets/0bfa1bc9-4a15-4af3-9c03-d6bbc043a0ca" />
+
+<img width="1394" height="626" alt="Image" src="https://github.com/user-attachments/assets/1ec05d76-3071-4dac-b7da-dda0b7bd88ef" />
+
+<img width="683" height="502" alt="Image" src="https://github.com/user-attachments/assets/b45dfeea-acbb-4ad5-9126-ad86d9ff41d1" />
